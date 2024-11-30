@@ -3,7 +3,7 @@ The following topics were used in this "Bankist" App
 
 - Selecting, creating elements;
 - Implementing smoth scrolling;
-- Event Propagation, Evend Delegation;
+- Event Propagation, Event Delegation;
 - Building a tabbed component;
 - Implementing a sticky navigation;
 - The IntercectionObserver API;
